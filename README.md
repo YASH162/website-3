@@ -7,6 +7,7 @@ The site uses [Jekyll](http://jekyllrb.com), a static site generator. GitHub Pag
 
 Contributing to the website
 ---------------------------
+If you want to contribute , these are the few steps to do ....
 
 **Note:** Major issues or feature requests should be filed on the [issue tracker](https://github.com/mono/website/issues) first, so we can discuss the implications.
 
